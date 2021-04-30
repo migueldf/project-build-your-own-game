@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Master Mind
+*[Ricardo Reyes & Miguel Diaz]*
 
-*[Your Cohort, Campus & Date]*
+*[DAPTAbr2021, CDMX, May2021]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,19 +14,20 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
-
+Mastermind es un juego de descifrado de código en el que un jugador intenta adivinar una combinación secreta. El jugador tiene 10 intentos para adivinar la combinación, durante los cuales se dan pistas con base en la combinación ingresada.
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
-
+1) Logic Diagram
+2) Pseudo code
+3) Game logic coding
+4) UI Builduing
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
-
+We used Trello to plan the development of the project
 <a name="links"></a>
 
 ## Links
-Include the links to your repository and slides. Feel free to include any other links associated to your project. 
+Demo deck - https://docs.google.com/presentation/d/1zPodAmL5gdvN--LwoWUbC3h2yqiRR4xY8wIzfhgwP_k/edit?usp=sharing
+Trello - https://trello.com/b/sb1UNUJ6/proyecto-1-mastermind
